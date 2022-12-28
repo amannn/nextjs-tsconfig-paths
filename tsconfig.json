@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "paths": {
-      "tsconfig-test-2/index": ["./test"]
+      "tsconfig-test-2": ["./test"]
     },
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
